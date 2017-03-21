@@ -1,0 +1,461 @@
+/**************************************************************
+ICONS EDL
+**************************************************************/
+.edl-icon::before,
+[class*=' edl-icon--']::before {
+	display: inline-block;
+	font-family: "spark-icon-fill" !important;
+	font-style: normal !important;
+	font-variant: normal !important;
+	font-weight: normal !important;
+	speak: none;
+	text-transform: none !important;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	font-size: 18px;
+}
+.edl-icon-line::before {
+	font-family: "spark-icon-line" !important;
+}
+.edl-icon--airplane-arrive::before {
+	content: "\f101";
+}
+.edl-icon--airplane-depart::before {
+	content: "\f102";
+}
+.edl-icon--airplane::before {
+	content: "\f103";
+}
+.edl-icon--alert-triangle::before {
+	content: "\f104";
+}
+.edl-icon--align-center::before {
+	content: "\f105";
+}
+.edl-icon--align-justify::before {
+	content: "\f106";
+}
+.edl-icon--align-left::before {
+	content: "\f107";
+}
+.edl-icon--align-right::before {
+	content: "\f108";
+}
+.edl-icon--announce::before {
+	content: "\f109";
+}
+.edl-icon--apple::before {
+	content: "\f10a";
+}
+.edl-icon--arrow-basic-down::before {
+	content: "\f10b";
+}
+.edl-icon--arrow-basic-left::before {
+	content: "\f10c";
+}
+.edl-icon--arrow-basic-right::before {
+	content: "\f10d";
+}
+.edl-icon--arrow-basic-up::before {
+	content: "\f10e";
+}
+.edl-icon--arrow-chevron-down::before {
+	content: "\f10f";
+}
+.edl-icon--arrow-chevron-left::before {
+	content: "\f110";
+}
+.edl-icon--arrow-chevron-right::before{
+	content: "\f111";
+}
+.edl-icon--arrow-chevron-up::before {
+	content: "\f112";
+}
+.edl-icon--arrow-curve-right::before {
+	content: "\f113";
+}
+.edl-icon--arrow-double-horizontal::before {
+	content: "\f114";
+}
+.edl-icon--arrow-double-vertical::before {
+	content: "\f115";
+}
+.edl-icon--arrow-triangle-down::before {
+	content: "\f116";
+}
+.edl-icon--arrow-triangle-left::before {
+	content: "\f117";
+}
+.edl-icon--arrow-triangle-right::before {
+	content: "\f118";
+}
+.edl-icon--arrow-triangle-up::before {
+	content: "\f119";
+}
+.edl-icon--arrows-up-down::before {
+	content: "\f175";
+}
+.edl-icon--ban::before {
+	content: "\f11a";
+}
+.edl-icon--bell::before {
+	content: "\f176";
+}
+.edl-icon--briefcase::before {
+	content: "\f11b";
+}
+.edl-icon--bus::before {
+	content: "\f11c";
+}
+.edl-icon--calendar-empty::before {
+	content: "\f11d";
+}
+.edl-icon--calendar::before {
+	content: "\f11e";
+}
+.edl-icon--camera::before {
+	content: "\f11f";
+}
+.edl-icon--car-parking::before {
+	content: "\f177";
+}
+.edl-icon--car-rental::before {
+	content: "\f120";
+}
+.edl-icon--check-circle::before {
+	content: "\f178";
+}
+.edl-icon--check::before {
+	content: "\f121";
+}
+.edl-icon--clock::before {
+	content: "\f122";
+}
+.edl-icon--close::before {
+	content: "\f123";
+}
+.edl-icon--cocktail::before {
+	content: "\f124";
+}
+.edl-icon--coffee::before {
+	content: "\f179";
+}
+.edl-icon--cog::before {
+	content: "\f125";
+}
+.edl-icon--coupon::before {
+	content: "\f17a";
+}
+.edl-icon--credit-card::before {
+	content: "\f126";
+}
+.edl-icon--cruise::before {
+	content: "\f127";
+}
+.edl-icon--currency-convert::before {
+	content: "\f17b";
+}
+.edl-icon--data-area::before {
+	content: "\f128";
+}
+.edl-icon--data-bars::before {
+	content: "\f129";
+}
+.edl-icon--data-line::before {
+	content: "\f12a";
+}
+.edl-icon--data-pie-chart::before {
+	content: "\f12b";
+}
+.edl-icon--document-cancel::before {
+	content: "\f17c";
+}
+.edl-icon--document-check::before {
+	content: "\f17d";
+}
+.edl-icon--document-money::before {
+	content: "\f17e";
+}
+.edl-icon--document::before {
+	content: "\f12c";
+}
+.edl-icon--documents-empty::before {
+	content: "\f17f";
+}
+.edl-icon--documents::before {
+	content: "\f12d";
+}
+.edl-icon--email::before {
+	content: "\f12e";
+}
+.edl-icon--ethernet::before {
+	content: "\f12f";
+}
+.edl-icon--file-download::before {
+	content: "\f130";
+}
+.edl-icon--file-upload::before {
+	content: "\f131";
+}
+.edl-icon--flag::before {
+	content: "\f132";
+}
+.edl-icon--folder::before {
+	content: "\f133";
+}
+.edl-icon--food-service::before {
+	content: "\f180";
+}
+.edl-icon--food::before {
+	content: "\f134";
+}
+.edl-icon--games::before {
+	content: "\f135";
+}
+.edl-icon--gauge::before {
+	content: "\f136";
+}
+.edl-icon--handicap::before {
+	content: "\f137";
+}
+.edl-icon--hotel-bed::before {
+	content: "\f138";
+}
+.edl-icon--hotel-blow-dryer::before {
+	content: "\f181";
+}
+.edl-icon--hotel-gym::before {
+	content: "\f182";
+}
+.edl-icon--hotel-lamp-desk::before {
+	content: "\f183";
+}
+.edl-icon--hotel-pool::before {
+	content: "\f184";
+}
+.edl-icon--hotel-safe::before {
+	content: "\f185";
+}
+.edl-icon--hotel-shower::before {
+	content: "\f186";
+}
+.edl-icon--hotel-spa::before {
+	content: "\f187";
+}
+.edl-icon--hotel::before {
+	content: "\f139";
+}
+.edl-icon--info-circle::before {
+	content: "\f188";
+}
+.edl-icon--key::before {
+	content: "\f13a";
+}
+.edl-icon--leaf::before {
+	content: "\f13b";
+}
+.edl-icon--link::before {
+	content: "\f13c";
+}
+.edl-icon--location-empty::before {
+	content: "\f13d";
+}
+.edl-icon--location-information::before {
+	content: "\f189";
+}
+.edl-icon--location::before {
+	content: "\f13e";
+}
+.edl-icon--lock-close::before {
+	content: "\f13f";
+}
+.edl-icon--lock-open::before {
+	content: "\f140";
+}
+.edl-icon--log-in::before {
+	content: "\f16f";
+}
+.edl-icon--log-out::before {
+	content: "\f170";
+}
+.edl-icon--map::before {
+	content: "\f141";
+}
+.edl-icon--math-add::before{
+	content: "\f142";
+}
+.edl-icon--math-subtract::before {
+	content: "\f143";
+}
+.edl-icon--menu-ellipsis-horizontal::before {
+	content: "\f144";
+}
+.edl-icon--menu-ellipsis-vertical::before {
+	content: "\f145";
+}
+.edl-icon--menu-hamburger::before {
+	content: "\f146";
+}
+.edl-icon--money::before {
+	content: "\f147";
+}
+.edl-icon--note::before {
+	content: "\f148";
+}
+.edl-icon--out::before {
+	content: "\f149";
+}
+.edl-icon--password-hide::before {
+	content: "\f14a";
+}
+
+.edl-icon--password-view::before {
+	content: "\f14b";
+}
+
+.edl-icon--pencil::before {
+	content: "\f14c";
+}
+
+.edl-icon--pet-paw::before {
+	content: "\f18a";
+}
+
+.edl-icon--phone-hang-up::before {
+	content: "\f18b";
+}
+
+.edl-icon--phone-mobile::before {
+	content: "\f14d";
+}
+
+.edl-icon--phone::before {
+	content: "\f14e";
+}
+
+.edl-icon--picture::before {
+	content: "\f14f";
+}
+
+.edl-icon--pictures::before {
+	content: "\f150";
+}
+
+.edl-icon--power-button::before {
+	content: "\f151";
+}
+
+.edl-icon--print::before {
+	content: "\f152";
+}
+.edl-icon--refresh::before {
+	content: "\f171";
+}
+.edl-icon--resize-max::before {
+	content: "\f153";
+}
+.edl-icon--resize-restore::before {
+	content: "\f154";
+}
+.edl-icon--search::before {
+	content: "\f155";
+}
+.edl-icon--share::before {
+	content: "\f156";
+}
+.edl-icon--shield-check::before {
+	content: "\f18c";
+}
+.edl-icon--shopping-cart::before {
+	content: "\f174";
+}
+.edl-icon--sign-in::before {
+	content: "\f172";
+}
+.edl-icon--sign-out::before {
+	content: "\f173";
+}
+.edl-icon--sliders::before {
+	content: "\f157";
+}
+.edl-icon--smoking-non::before {
+	content: "\f18d";
+}
+.edl-icon--smoking::before {
+	content: "\f18e";
+}
+.edl-icon--social-facebook::before {
+	content: "\f158";
+}
+.edl-icon--social-googleplus::before {
+	content: "\f159";
+}
+.edl-icon--social-instagram::before {
+	content: "\f15a";
+}
+.edl-icon--social-linkedin::before {
+	content: "\f15b";
+}
+.edl-icon--social-twitter::before {
+	content: "\f15c";
+}
+.edl-icon--social-youtube::before {
+	content: "\f18f";
+}
+.edl-icon--star::before {
+	content: "\f15d";
+}
+.edl-icon--suitcase::before {
+	content: "\f15e";
+}
+.edl-icon--tablet::before {
+	content: "\f15f";
+}
+.edl-icon--tag::before {
+	content: "\f160";
+}
+.edl-icon--ticket::before {
+	content: "\f161";
+}
+.edl-icon--tools::before {
+	content: "\f162";
+}
+.edl-icon--train::before {
+	content: "\f163";
+}
+.edl-icon--trash::before {
+	content: "\f164";
+}
+.edl-icon--trophy::before {
+	content: "\f190";
+}
+.edl-icon--user::before {
+	content: "\f165";
+}
+.edl-icon--users::before {
+	content: "\f166";
+}
+.edl-icon--video-control-forward::before {
+	content: "\f167";
+}
+.edl-icon--video-control-pause::before {
+	content: "\f168";
+}
+.edl-icon--video-control-play::before {
+	content: "\f169";
+}
+.edl-icon--video-control-rewind::before {
+	content: "\f16a";
+}
+.edl-icon--video-control-stop::before {
+	content: "\f16b";
+}
+.edl-icon--video::before {
+	content: "\f16c";
+}
+.edl-icon--wifi::before {
+	content: "\f16d";
+}
+.edl-icon--world::before {
+	content: "\f16e";
+}
